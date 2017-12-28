@@ -1,0 +1,1 @@
+C:\Users\meicw\scripts\bin\runHidden.vbs bash
